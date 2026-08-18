@@ -6,3 +6,6 @@
 /.husky.setup
 /.DS_Store
 .DS_Store
+vite.config.js
+vite.config.d.ts
+*.tsbuildinfo
