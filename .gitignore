@@ -1,0 +1,8 @@
+/dist
+/node_modules
+/.husky
+/.vite
+/.ap
+/.husky.setup
+/.DS_Store
+.DS_Store
